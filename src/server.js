@@ -23,7 +23,3 @@ startDatabase().then(() => {
     console.log(`running on ${PORT}`);
   });
 });
-
-function new(params) {
-
-}
